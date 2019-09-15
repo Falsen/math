@@ -1,5 +1,5 @@
 {
-    "name": "falsen/math",
+    "name": "falsen/php-bigmath",
     "description": "Arbitrary-precision arithmetic library",
     "type": "library",
     "keywords": [
